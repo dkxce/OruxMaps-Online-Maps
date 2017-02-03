@@ -1,0 +1,1 @@
+OruxMaps onlinemapsource.xml with Google, OSM, Yandex and other maps.
