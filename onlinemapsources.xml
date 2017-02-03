@@ -2166,7 +2166,7 @@
 	<!-- AIR SkyVector.com World Hi -->
 	<onlinemapsource uid="117">
 		<name>SkyVector.com World Hi (AIR)</name>
-		<url><![CDATA[https://t.skyvector.com/mnmnmbdbddbd/304/1608/{$z}/{$x}/{$y}.jpg]]></url>
+		<url><![CDATA[https://t.skyvector.com/mnmnmbdbddbd/304/1702/{$z}/{$x}/{$y}.jpg]]></url>
 		<website><![CDATA[<a href="http://skyVector.com">SkyVector.com</a>]]></website>
 		<minzoom>0</minzoom>
 		<maxzoom>10</maxzoom>
@@ -2186,7 +2186,7 @@
 	<!-- AIR SkyVector.com World Lo -->
 	<onlinemapsource uid="118">
 		<name>SkyVector.com World Lo (AIR)</name>
-		<url><![CDATA[https://t.skyvector.com/mnmnmbdbddbd/302/1608/{$z}/{$x}/{$y}.jpg]]></url>
+		<url><![CDATA[https://t.skyvector.com/mnmnmbdbddbd/302/1702/{$z}/{$x}/{$y}.jpg]]></url>
 		<website><![CDATA[<a href="http://skyVector.com">SkyVector.com</a>]]></website>
 		<minzoom>0</minzoom>
 		<maxzoom>11</maxzoom>
@@ -2206,7 +2206,7 @@
 	<!-- AIR SkyVector.com World VFR -->
 	<onlinemapsource uid="119">
 		<name>SkyVector.com World VFR (AIR)</name>
-		<url><![CDATA[https://t.skyvector.com/mnmnmbdbddbd/301/1608/{$z}/{$x}/{$y}.jpg]]></url>
+		<url><![CDATA[https://t.skyvector.com/mnmnmbdbddbd/301/1702/{$z}/{$x}/{$y}.jpg]]></url>
 		<website><![CDATA[<a href="http://skyVector.com">SkyVector.com</a>]]></website>
 		<minzoom>0</minzoom>
 		<maxzoom>11</maxzoom>
